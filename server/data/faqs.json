@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "topic": "admissions",
+    "keywords": ["admission", "apply", "application", "join", "enroll", "eligibility", "documents", "process"],
+    "question": "How do I apply for admission at CGC University, Mohali?",
+    "answer": "TODO: Replace with the real admission process from the CGC University website (online form, eligibility, documents, last date)."
+  },
+  {
+    "id": 2,
+    "topic": "fees",
+    "keywords": ["fee", "fees", "tuition", "cost", "payment", "scholarship"],
+    "question": "What is the fee structure?",
+    "answer": "TODO: Replace with real program-wise fee details and scholarship info from the official website."
+  },
+  {
+    "id": 3,
+    "topic": "courses",
+    "keywords": ["course", "courses", "program", "programs", "btech", "b.tech", "mba", "bca", "mca", "department", "branch"],
+    "question": "Which courses does the university offer?",
+    "answer": "TODO: List the real programs and departments (engineering, management, computer applications, etc.)."
+  },
+  {
+    "id": 4,
+    "topic": "exams",
+    "keywords": ["exam", "exams", "datesheet", "date sheet", "result", "results", "semester", "backlog"],
+    "question": "When are the exams and how do I check results?",
+    "answer": "TODO: Replace with the real exam schedule process and result portal details."
+  },
+  {
+    "id": 5,
+    "topic": "hostel",
+    "keywords": ["hostel", "accommodation", "room", "mess", "stay", "pg"],
+    "question": "Is hostel accommodation available?",
+    "answer": "TODO: Replace with real hostel availability, fees and facilities."
+  },
+  {
+    "id": 6,
+    "topic": "placements",
+    "keywords": ["placement", "placements", "job", "jobs", "recruiter", "package", "internship", "company"],
+    "question": "How are placements at the university?",
+    "answer": "TODO: Replace with real placement stats, top recruiters and training cell info."
+  },
+  {
+    "id": 7,
+    "topic": "contact",
+    "keywords": ["contact", "phone", "email", "address", "location", "reach", "helpline", "campus"],
+    "question": "How can I contact the university?",
+    "answer": "TODO: Replace with the official phone number, email and campus address from the website."
+  }
+]
